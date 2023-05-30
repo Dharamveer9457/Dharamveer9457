@@ -8,6 +8,7 @@ Portfolio : https://dharamveer9457.github.io/
 
 
 
+[![Dharamveer's github stats](https://github-readme-stats.vercel.app/api?username=Dharamveer9457)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
