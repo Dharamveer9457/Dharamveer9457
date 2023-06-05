@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![banner](Dharamveer.png)
+
 Linkedin : https://www.linkedin.com/in/dharam-veer-726366245/
 Portfolio : https://dharamveer9457.github.io/
 
