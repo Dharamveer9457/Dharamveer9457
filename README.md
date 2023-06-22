@@ -13,8 +13,8 @@ Aspiring Full-stack Web Developer at Masai School.
 
 # 👨‍💻 Some work of Mine
 - 💼 My Portfolio - [Dharamveer-Portfolio](https://dharamveer9457.github.io/)
+- 🤝 Group Project - [Video Chat Application](https://github.com/Sonu598/vivid-roll-405)
 - 🤝 Group Project - [IndiaMart Clone](https://github.com/Dharamveer9457/makeshift-protest-7826)
-- 🤝 Group Project - [BassPro Shops Clone](https://github.com/Shreyansh-Jain7/dysfunctional-stomach-1310)
 - 👨‍💻 Individual Project - [Shopclues Clone](https://github.com/Dharamveer9457/literate-needle-3714)
 - 📃 Resume - [Dharamveer-Resume](https://drive.google.com/file/d/1HKytUmy2AFOwGkGJ8l4au2SjvRfsUaK8/view?usp=sharing)
 
