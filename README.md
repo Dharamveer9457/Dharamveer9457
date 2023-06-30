@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Dharamveer9457&color=brightgreen)
 
-# Hii Everyone, I am Dharamvee👋
+# Hii Everyone, I am Dharamve👋
 Aspiring Full-stack Web Developer at Masai School.
 
 # Reach me at 
