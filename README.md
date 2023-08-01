@@ -13,7 +13,6 @@
 - 💬 Ask me about Javascript, Frontend, or Backend technologies, I would love to help.
 -⚡ Self and quick learner, self-motivated, and social.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript)](https://skillicons.dev)
 
 # Reach me at 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharam-veer-726366245/)
