@@ -11,7 +11,7 @@
 - 👨‍💻 I am passionate about learning both front-end and back-end technologies and databases.
 - 👯 I’m looking to collaborate on real products while working for an organization.
 - 💬 Ask me about Javascript, Frontend, or Backend technologies, I would love to help.
--⚡ Self and quick learner, self-motivated, and social.
+- ⚡ Self and quick learner, self-motivated, and social.
 
 
 # Reach me at 
