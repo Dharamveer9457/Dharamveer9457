@@ -4,7 +4,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Dharamveer9457&color=brightgreen)
 
 # Hii Everyone, This is Dharamveer 
-![hand](<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" />)
+![Hand with Fingers Splayed](https://github.com/Dharamveer9457/Dharamveer9457/assets/115460337/a34db2a1-5e1d-4eb8-a565-7b97855445ac)
+
 An aspiring full-stack developer, Currently learning at Masai School.
 
 # 🚀 About Me
