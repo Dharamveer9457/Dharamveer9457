@@ -2,8 +2,11 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Dharamveer9457&color=brightgreen)
 
-# Hii Everyone, I am Dharamveer👋
-Aspiring Full-stack Web Developer at Masai School.
+# Hii Everyone, This is Dharamveer👋
+Aspiring Full-stack Web Developer experienced in HTML, CSS, JS, NodeJS, Express, React and databases like mongoDB, MySQL.
+
+# 🚀 About Me
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
