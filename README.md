@@ -3,9 +3,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Dharamveer9457&color=brightgreen)
 
-# Hii Everyone, This is Dharamveer 
-![Hand with Fingers Splayed](https://github.com/Dharamveer9457/Dharamveer9457/assets/115460337/a34db2a1-5e1d-4eb8-a565-7b97855445ac)
-
+# Hii Everyone, This is Dharamveer👋
 An aspiring full-stack developer, Currently learning at Masai School.
 
 # 🚀 About Me
