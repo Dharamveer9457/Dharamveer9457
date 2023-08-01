@@ -14,8 +14,8 @@ An aspiring full-stack developer, Currently learning at Masai School.
 - ⚡ Self and quick learner, self-motivated, and social.
 
 # ⚙️ Skills and Tools
-	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
- 
+	
+ [![Html5](https://www.linkedin.com/in/dharam-veer-726366245/](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 # Reach me at 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharam-veer-726366245/)
