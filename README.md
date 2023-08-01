@@ -3,7 +3,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Dharamveer9457&color=brightgreen)
 
 # Hii Everyone, This is Dharamveer👋
-
+An aspiring full-stack developer, Currently learning at Masai School.
 
 # 🚀 About Me
 - 🔭 I am a Full-Stack Web Developer and I love to make new things and also like to travel and play online games.
@@ -13,6 +13,9 @@
 - 💬 Ask me about Javascript, Frontend, or Backend technologies, I would love to help.
 - ⚡ Self and quick learner, self-motivated, and social.
 
+# ⚙️ Skills and Tools
+	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+ 
 
 # Reach me at 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharam-veer-726366245/)
@@ -26,12 +29,6 @@
 - 🤝 Group Project - [IndiaMart Clone](https://github.com/Dharamveer9457/makeshift-protest-7826)
 - 👨‍💻 Individual Project - [Shopclues Clone](https://github.com/Dharamveer9457/literate-needle-3714)
 - 📃 Resume - [Dharamveer-Resume](https://drive.google.com/file/d/1HKytUmy2AFOwGkGJ8l4au2SjvRfsUaK8/view?usp=sharing)
-
-# I’m currently learning 💻
-- NextJS<br>
-- Tailwind<br>
-- NodeJS<br>
-- SQL
 
 # Github Stats 📈
 ![Dharamveer's github stats](https://github-readme-stats.vercel.app/api?username=Dharamveer9457)
