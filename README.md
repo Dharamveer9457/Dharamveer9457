@@ -5,6 +5,8 @@
 # Hii Everyone, I am Dharamveer👋
 Aspiring Full-stack Web Developer at Masai School.
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 # Reach me at 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharam-veer-726366245/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dharamveer9457)
@@ -19,10 +21,10 @@ Aspiring Full-stack Web Developer at Masai School.
 - 📃 Resume - [Dharamveer-Resume](https://drive.google.com/file/d/1HKytUmy2AFOwGkGJ8l4au2SjvRfsUaK8/view?usp=sharing)
 
 # I’m currently learning 💻
-- Node<br>
-- Express<br>
-- Mongoose<br>
-- MongoDB
+- NextJS<br>
+- Tailwind<br>
+- NodeJS<br>
+- SQL
 
 # Github Stats 📈
 ![Dharamveer's github stats](https://github-readme-stats.vercel.app/api?username=Dharamveer9457)
