@@ -1,5 +1,5 @@
-![gif](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
-![Dharamveer](https://github.com/Dharamveer9457/Dharamveer9457/assets/115460337/ea535a46-7277-465c-ab23-593d8d5c7133)
+![gif](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=Dharamveer9457&color=brightgreen)
 
