@@ -15,6 +15,7 @@ An aspiring full-stack developer, Currently learning at Masai School.
 - 👯 I’m looking to collaborate on real products while working for an organization.
 - 💬 Ask me about Javascript, Frontend, or Backend technologies, I would love to help.
 - ⚡ Self and quick learner, self-motivated, and social.
+- 👉 Recently completed a generative AI course, gaining expertise in prompt engineering, Flask, Python, and advanced generative AI concepts.
 
 # 🛠 Skills and Tools
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
