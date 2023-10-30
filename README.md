@@ -6,7 +6,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Dharamveer9457&color=brightgreen)
 
 # Hii Everyone, This is Dharamveer👋
-An aspiring full-stack developer, Currently learning at Masai School.
+An aspiring full-stack developer, Currently learning at Masai Schoo.
 
 # 🚀 About Me
 - 🔭 I am a Full-Stack Web Developer and I love to make new things and also like to travel and play online games.
