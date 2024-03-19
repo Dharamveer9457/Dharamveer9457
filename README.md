@@ -5,7 +5,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Dharamveer9457&color=brightgreen)
 
-# Hii Everyone, This is Dharamvee👋
+# Hii Everyone, This is Dharamveer👋
 Currently working at Wunderman Thompson.
 
 # 🚀 About Me
